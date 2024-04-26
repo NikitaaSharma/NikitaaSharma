@@ -4,14 +4,13 @@
 ##  About me
 <div align="left">
 
-<img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
-
 - **Academics:** Persued Electrical and Electronics Engineering from BMSCE, Bangalore. <br/>
 CGPA: 8.9 🎓
 
 - **Tech Interests:** Passionate full-stack developer. <br/>
-I write Medium articles to collate my learning in a public forum. [Medium Profile](https://medium.com/@nikitasharma211999)<br/>
-Currently learning Recommendation Systems and MERN stack.<br/>
+I write Medium articles to collate my learning in a public forum.<br/>
+[Medium Profile](https://medium.com/@nikitasharma211999)<br/>
+ ++ Currently learning Recommendation Systems and MERN stack.<br/>
 
 - **Work Experience:** Currently working @ Target as a Senior Software Engineer. <br/>
 
