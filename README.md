@@ -1,26 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nikita Sharma</h1> 
 <h3 align="center">Software Engineer</h3>
-  
-##  About me
-<div align="left">
 
-- **Academics:** Persued Electrical and Electronics Engineering from BMSCE, Bangalore. <br/>
-CGPA: 8.9 🎓
-
-- **Tech Interests:** Passionate full-stack developer. <br/>
-I write Medium articles to collate my learning in a public forum.<br/>
-[Medium Profile](https://medium.com/@nikitasharma211999)<br/>
- ++ Currently learning Recommendation Systems and MERN stack.<br/>
-
-- **Work Experience:** Currently working @ Target as a Senior Software Engineer. <br/>
-
-- **Hobbies:** Reading Murakami books and art
-
-</div>
-
-<br/>
-
-##  Languages and Tools
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55057608/215124769-4e28bb35-6b77-4572-8769-42423bbf3803.png" alt="C" width="5%"/>
   &nbsp;
@@ -58,8 +38,23 @@ I write Medium articles to collate my learning in a public forum.<br/>
   <img src="https://user-images.githubusercontent.com/55057608/215184827-93ec1b83-a9f6-47bd-aece-50c89c7e175b.png" alt="VS Code" width="5%"/>
 </p>
 
-<br/>
+##  About me
+<div align="left">
 
+- **Academics:** Persued Electrical and Electronics Engineering from BMSCE, Bangalore. <br/>
+CGPA: 8.9 🎓
+
+- **Tech Interests:** Passionate full-stack developer. <br/>
+I write Medium articles to collate my learning in a public forum.<br/>
+[Medium Profile](https://medium.com/@nikitasharma211999)<br/>
+ ++ Currently learning Recommendation Systems and MERN stack.<br/>
+
+- **Work Experience:** Currently working @ Target as a Senior Software Engineer. <br/>
+
+- **Hobbies:** Reading Murakami books and art
+
+</div>
+<br/>
 
 ##  Stats
 
